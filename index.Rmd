@@ -132,21 +132,28 @@ Por meio desta disciplina, os estudantes desenvolverão competências para:
 
 ## Proposta de avaliação da aprendizagem
 
-Pontos|	Atividade
-------|----------
-10| Estudos Autônomos 1 - Nivel de serviço logístico
-10| Estudos Autônomos 2 - TICs e KPIs
-10| Estudos Autônomos 3 – Logística Urbana
-10| Estudos Autônomos 4 - Gestão de Transportes
-10| Estudos Autônomos 5 - Gestão de estoques e armazenagem
-10| Estudos Autônomos 6 - Redes Logísticas e Custos
-10| Estudos Autônomos 7 - Multivarejo e Omnichannel
-30| Projeto incremental 1
+Pontos|	Atividade 
+------|------------ 
+10|  Atividade de aprendizagem 1 - Conceitualizar e contextualizar a Logística
+10|  Atividade de aprendizagem 2 - Nivel de serviço logístico, TICs e KPIs
+10|  Atividade de aprendizagem 3 – Logística Urbana
+10|  Atividade de aprendizagem 4 - Gestão de Transportes | 
+10|  Atividade de aprendizagem 5 - Gestão de estoques e armazenagem
+10|  Atividade de aprendizagem 5 - Localização e custos logísticos
+15|  Projeto integrador 1 - Vídeo | 
+25|  Projeto integrador 2 - Revista | 
+TOTAL:| 	100 pontos
+
+---
+
+## Proposta de avaliação da aprendizagem
+
 
 > As datas de entrega e o planejamento dos encontros está disponível no site da disciplina em http://places.education
 
 
 ---
+
 ## Recursos necessários
 
 Será necessário o uso de planilha eletrônica (o aplicativo pode ser de escolha do aluno) e ao longo da disciplina serão indicados aplicativos FOSS para outras análises.
@@ -188,6 +195,18 @@ Os estudantes que forem considerados em violação da política de integridade a
 ## Organização das atividades:
 
 **Composição dos grupos de trabalho:** A turma deverá ser dividida em **grupos**. Esses grupos devem se manter para realização de todos os projetos e atividades da disciplina. A professora indicara a plataforma que permitirá o desenvolvimento das atividades/projeto de maneira colaborativa, com registro das discussões.  
+
+---
+class: middle, center, inverse
+
+# O que é logística?
+
+Cada grupo deverá pesquisar no ChatGTP o significado de logística. Criem `prompts` elaborados, buscando o contexto da logística em algum segmento econômico, como por exemplo: siderurgia, varejo de alimentos.... 
+
+
+```{r}
+countdown_app()
+```
 
 
 ---
